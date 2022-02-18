@@ -14,7 +14,7 @@ public class HomeController {
 	@GetMapping("/")
 	public String Welcome()
 	{
-		return "Welcome to springboot fashion store";
+		return "Welcome to springboot fashion store mukesh";
 		
 	}
 
